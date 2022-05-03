@@ -1,0 +1,25 @@
+{
+  "itemList" :
+  [
+    {
+      "src" : "test1.jpg",
+      "caption" : "Cap1",
+      "location" : "test1"
+    },
+    {
+      "src" : "test2.jpg",
+      "caption" : "Cap2",
+      "location" : "test2"
+    },
+    {
+      "src" : "test3.jpg",
+      "caption" : "Cap3",
+      "location" : "test3"
+    },
+    {
+      "src" : "test4.jpg",
+      "caption" : "Cap4",
+      "location" : "test4"
+    }
+  ]
+}
